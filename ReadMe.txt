@@ -1,15 +1,9 @@
-READ ME
+# Top Soccer Player 
 
-To run, open the index.html file either through FireFox or through a software such as Bracket.
+- interactive visualizations in d3.js 
 
-index.html is the home page.
 
-second.html is the second page.
+Website can be explored on heroku: 
+https://interactive-visual-socc-player.herokuapp.com/
 
-third.html is the last page. 
-
-you can change to other pages in any of the html pages. 
-
-data folder contains all the data files (csv, tsv and json) and image files.  
-
-script folder contains all the JavaScript used to implement the graphs with D3 library.
+## Author: Yuming Huang
